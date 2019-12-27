@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/12/27 14:48:25.340,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/27 14:48:37.046,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\ImageConverter.dproj=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/12/27 14:51:28.647,D:\Coding\Image Converter\Unit1.pas=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/27 14:51:28.647,D:\Coding\Image Converter\Unit1.fmx=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/12/27 14:51:30.773,D:\Coding\Image Converter\ImageConverter.dproj=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\ImageConverter.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
